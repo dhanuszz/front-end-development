@@ -4,3 +4,4 @@ demo for registration form https://dhanuszz.github.io/front-end-development/FORM
 
 demo for notice from http://https://dhanuszz.github.io/front-end-development/notice1.html
 <img width="897" height="453" alt="Screenshot 2026-02-12 085134" src="https://github.com/user-attachments/assets/84946f8d-de60-4524-a165-162778704faf" />
+
