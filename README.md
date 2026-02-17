@@ -8,4 +8,6 @@ demo for notice from http://https://dhanuszz.github.io/front-end-development/not
 demo for profile from https://https://dhanuszz.github.io/front-end-development/profile.html
 <img width="639" height="597" alt="Screenshot 2026-02-12 090155" src="https://github.com/user-attachments/assets/1dc46754-55ce-46ae-a6dd-5fc8e5261b51" />
 
+demo for photo from https://dhanuszz.github.io/front-end-development/photo.html
+<img width="1366" height="586" alt="Screenshot 2026-02-17 092726" src="https://github.com/user-attachments/assets/be6d8d1e-dbc5-4a01-aeb8-1944c9ed14ba" />
 
