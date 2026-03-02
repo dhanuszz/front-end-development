@@ -13,3 +13,6 @@ demo for photo from https://dhanuszz.github.io/front-end-development/photo.html
 
 demo for logine fromhttps://dhanuszz.github.io/front-end-development/logine.html
 <img width="1337" height="567" alt="Screenshot 2026-02-24 085030" src="https://github.com/user-attachments/assets/2fcf0ce8-0f6c-42eb-87f1-a8ed153b1feb" />
+
+demo for logine fromhttps://dhanuszz.github.io/front-end-development/navigation.html
+<img width="1022" height="570" alt="Screenshot 2026-03-02 092908" src="https://github.com/user-attachments/assets/c0891ac2-2577-4489-b301-0684d52e37ce" />
