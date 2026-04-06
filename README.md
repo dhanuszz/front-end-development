@@ -16,3 +16,6 @@ demo for logine fromhttps://dhanuszz.github.io/front-end-development/logine.html
 
 demo for logine fromhttps://dhanuszz.github.io/front-end-development/navigation.html
 <img width="1022" height="570" alt="Screenshot 2026-03-02 092908" src="https://github.com/user-attachments/assets/c0891ac2-2577-4489-b301-0684d52e37ce" />
+
+demo for logine fromhttps://dhanuszz.github.io/front-end-development/Calculator.html
+<img width="918" height="568" alt="image" src="https://github.com/user-attachments/assets/db961583-8c2d-42bf-94a6-78f0b04bd0f6" />
